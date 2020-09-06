@@ -250,7 +250,7 @@ a:active{
 
 /*Header CSS begins here*/
 .header{
-  background-image:  url(/dist/bgs/header-bg-1.png), url(/dist/bgs/header-bg-2.png);
+  background-image:  url(../dist/bgs/header-bg-1.png), url(../dist/bgs/header-bg-2.png);
   background-position: left top, right bottom;
   background-repeat: no-repeat,no-repeat;
   background-size: auto 200px,250px auto; 
